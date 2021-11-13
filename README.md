@@ -8,4 +8,4 @@ txt stands for: text
 2/ Github account (done)
 
 
-
+3/ Change Windows language to English
