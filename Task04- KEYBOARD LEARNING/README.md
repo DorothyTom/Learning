@@ -11,6 +11,8 @@
 
 2/ Ta có thể lên trang web này để so tài cùng các cao nhân!!!
     
-    (https://10fastfingers.com/competition/619a3d170dfd1)
+    B1: Tìm kiếm trang web (https://10fastfingers.com/competition/619a3d170dfd1)
+    B2: Nó sẽ ra trang web
+    B3: Cùng luyện tập thôi!!
 
    - Cuối cùng chúc bạn có thể đánh máy nhanh một cách chuyên nghiệp~~
