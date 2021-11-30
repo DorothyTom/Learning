@@ -1,11 +1,13 @@
 # Shortcut 
 - Shortcut là gì? Tại sao phải sử dụng shortcut? Sử dụng shortcut dễ hay khó và sử dụng shortcut như thế nào?
 ``` bash
-Ta có thể hiểu shortcut là những phím tắt để ta vận dụng vào công việc để khiến mình làm việc thật nhanh nhẹn hơn, có hiệu quả làm việc cao hơn.
-Để sử dụng được shortcut thì rất dễ chứ không hề khó như mình nghĩ, chỉ cần thuộc các tổ hợp phím thì đã có thể dùng được rồi.
-Sử dụng shortcut thì bạn chỉ cần bấm tổ hợp phím là ra ngay ^^
+-Ta có thể hiểu shortcut là những phím tắt để ta vận dụng vào công việc để khiến mình làm việc thật nhanh nhẹn hơn, có 
+hiệu quả làm việc cao hơn.
+-Để sử dụng được shortcut thì rất dễ chứ không hề khó như mình nghĩ, chỉ cần thuộc các tổ hợp phím thì đã có thể dùng 
+được rồi.
+-Sử dụng shortcut thì bạn chỉ cần bấm tổ hợp phím là ra ngay ^^
 ```
-> Nhưng để sử dụng được shortcut thì trước hết bạn phải đánh máy được đã vì khi đánh máy được bạn sẽ biết được những phím có trong shortcut nó nằm chỗ nào ^^ làm sao để đánh máy thật chuyên nghiệp??
+> Nhưng để sử dụng được shortcut thì trước hết bạn phải đánh máy được đã vì khi đánh máy được bạn sẽ biết được những phím có trong shortcut nó nằm chỗ nào ^^ vậy làm sao để đánh máy thật chuyên nghiệp??
 
 
 ## Làm sao để đánh máy thật nhanh một cách chuyên nghiệp??
