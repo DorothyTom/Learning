@@ -4,7 +4,15 @@
   .docx : là định dạng tập tin văn bản của Microsoft Word từ phiên bản 2007 trở nên. Những file lưu ở định dạng docx sẽ nhỏ hơn khá nhiều với định dạng doc cũ trước đây 1/2 lần. 
   Định dạng file docx được bảo mật hơn và khôi phục dữ liệu cũng dễ dàng hơn.
   .jpg : là một file hình ảnh, ngoài jpg còn có cả jpeg cũng là một file hình ảnh. Mặc dù một số file hình ảnh sử dụng phần mở rộng file jpg còn những file khác thì sử dụng jpeg 
-  nhưng suy cho cùng thì chúng đều như nhau đều là cùng một loại file
-  .gif : chỉ là một file hình ảnh như file jpg (jpeg) nhưng nó sịn hơn một xíu vì hình ảnh có thể chuyển động (ảnh động)
+  nhưng suy cho cùng thì chúng đều như nhau đều là cùng một loại file.
+  .gif : chỉ là một file hình ảnh như file jpg (jpeg) nhưng nó sịn hơn một xíu vì hình ảnh có thể chuyển động (ảnh động).
   .exe : là các file chương trình thực thi, hầu hết các ứng dụng đang chạy trên Windows đều là các file exe. 
+  .zip : dùng nén các file vào thì dung lượng lưu trữ của tổng file sẽ giảm xuống.
+  .msi : là tập tin mà hệ điều hành Windows sử dụng để mở các tệp msi khi người dùng nhấp đúp vào, chỉ cần mở tập tin msi lên và người dùng có thể truy cập vào nội dung các tập 
+  tin chứa trong nó.
+  .png : là một dạng hình ảnh sử dụng phương pháp nén dữ liệu mới, không làm mất đi dữ liệu gốc.
+  .mp3 : là một dạng file đã được nén bằng cách nén dữ liệu có tổn hao, nó là một dạng âm thanh được mã hóa và có dung lượng nhỏ hơn rất nhiều so với dữ liệu ban đầu.
+  .xls : là phần mở rộng tệp được sử dụng bởi ứng dụng bảng tính rất phổ biến của Microsoft đó là Excel.
+  .rar : là một dạng định dạng file để nén dữ liệu cho gọn nhẹ, tiện cho trao đổi files trên mạng, hỗ trợ sửa lỗi. 
+  .ppt : là định dạng mặc định để lưu các file thuyết trình từ Microsoft Power Point.
   
