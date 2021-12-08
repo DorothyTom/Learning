@@ -5,5 +5,6 @@ B2: chọn Properties.
 B3: chọn General, chọn Hidden. Nhấn Ok nếu muốn chắc chắn hơn thì nhấn Apply.
 B4: chọn Hidden items như step04 để ẩn file.
 - Sort datetime, file name.
-
+Sort datetime được dùng để sắp xếp theo thời gian các file (step05) và file name là tên mà đặt cho file của mình (step07).
+- Size file: để người dùng có thể biết được kích thước to hay nhỏ, nhiều hay ít của một file (step06).
 
