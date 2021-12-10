@@ -1,3 +1,4 @@
 # COMPUTER BASIC
-- Extentions
+- Extentions.
+- Hidden file, Sort datetime, file name, Size file.
 
