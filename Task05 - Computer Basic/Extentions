@@ -1,4 +1,4 @@
-- Extensions: .txt, .pdf, .docx, .jpg, .gif, .exe, .zip, .msi, .png, .mp3, .xls, .rar, .ppt
+- Extensions: .txt, .pdf, .docx, .jpg, .gif, .exe, .zip, .msi, .png, .mp3, .xls, .rar, .ppt, .7z, .dll, .r
   .txt : là một tài liệu văn bản chuẩn có chứa văn bản chưa định dạng.
   .pdf : là định dạng tài liệu di động, hỗ trợ văn bản, âm thanh và nhiều hiệu ứng khác. Mọi văn bản pdf sẽ được hiển thị giống nhau trên những môi trường làm việc khác nhau.
   .docx : là định dạng tập tin văn bản của Microsoft Word từ phiên bản 2007 trở nên. Những file lưu ở định dạng docx sẽ nhỏ hơn khá nhiều với định dạng doc cũ trước đây 1/2 
@@ -15,4 +15,7 @@
   .xls : là phần mở rộng tệp được sử dụng bởi ứng dụng bảng tính rất phổ biến của Microsoft đó là Excel.
   .rar : là một dạng định dạng file để nén dữ liệu cho gọn nhẹ, tiện cho trao đổi files trên mạng, hỗ trợ sửa lỗi. 
   .ppt : là định dạng mặc định để lưu các file thuyết trình từ Microsoft Power Point.
-  
+  .7z : để nén và giải nén các tập tin
+  .dll : File DLL chứa những hướng dẫn mà các chương trình khác có thể gọi đến để làm một tác vụ nào đó. Về cơ bản, DLL cũng giống như EXEs, tuy nhiên các file này được đặt
+  tên khác nhau trong quá trình liên kết.
+  .r : thuộc loại Developer Files được sử dụng trong các hệ điều hành...
