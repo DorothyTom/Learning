@@ -1,0 +1,12 @@
+- Ctrl+C là sao chép văn bản và ctrl+V là dán băn vản mình sao chép lại.
+- Ctrl+X là vừa sao chép nội dung vừa cắt xóa nội dung đi (ta có thể kết hợp vừa sử dụng ctrl+X và ctrl+V nếu trong trường hợp ta ghi lộn chỗ).
+- Ctrl+A là tổ hợp chọn bôi đen tât cả.
+- Ctrl+S là tổ hợp phím khi bạn muốn lưu một cái gì đó.
+- Ctrl+F để bạn tìm một từ nào đó được sử dụng trong các văn bản như word, excel,...(sử dụng ctrl+F sẽ khiến bạn kiếm nhanh hơn so với đi dò từng từ từng từ một).
+- Khi đang hớ tay làm điều gì đó sai lầm thì đừng trốn tránh hay sợ ngại vì ctrl+Z sẽ giúp ta quay trở lại ngay thời khắc ta làm điều sai!!!
+- Nhưng nếu lỡ như ctrl+Z lố qua khoảng thời gian ta đang làm điều sai thì đã có ctrl+Y sẽ đưa ta đến ngay khoảnh khắc đó.
+- Khi muốn bôi đen đến hết dòng thì chỉ cần để chuột ở cuối dòng rồi nhấn tổ hợp phím shift+Home(trên dãy esc ở f9). 
+- Khi muốn bôi đen đến chữ nào ta sử dụng tổ hợp phím ctrl+shift+Arrow (left và right) để di chuyển đến chỗ ta muốn bôi đen.
+- Khi muốn di chuyển dòng này sang dòng khác ta nhấn tổ hợp phím ctrl+shift+Arrow (bot và top).
+- Shift+Home (trên dãy esc ở f9) là tổ hợp phím để bôi đen đến hết dòng nếu ta đặt con chuột vào cuối dòng.
+- Shift+End (trên dãy esc ở f10) là tổ hợp phím để bôi đen đến hết dòng nếu ta đặt con chuột vào đầu dòng.
