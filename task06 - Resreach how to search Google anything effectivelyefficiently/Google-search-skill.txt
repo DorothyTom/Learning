@@ -1,0 +1,10 @@
+1/ Hãy tìm kiếm thật nhiều từ khóa liên quan đến thứ mình muốn tìm
+2/ Khi tìm kiếm không nhất thiết phải tìm kiếm cả hai thứ một lúc vì những thứ kết hợp sẽ ít nên thay vì dùng và ta sẽ dùng hoặc (OR) 
+3/ Đúng là khi tìm kiếm sẽ phải nhập nhiều từ khóa để tăng hiệu suất tìm kiếm nhưng ta sẽ bỏ các stop words bởi vì khi thêm vào GG cũng sẽ loại bỏ các từ đó. Nếu thực sự cần phải thêm vào thì ta dùng dáu (+) ở phía trước từ đó.
+4/ (-) dùng cho các từ đồng nghĩa, sẽ giúp bạn tìm kiếm đúng thứ bạn tìm kiếm chỉ cần để dấu (-) trước từ đồng nghĩa mà bạn không tìm kiếm.
+5/ Trong khi tìm kiếm sẽ không tránh khỏi viêc tìm kiếm nhưng không ra vì một số người sẽ dùng các từ ngữ khác để miêu tả, vì thế nên thêm (~) trước từ tìm kiếm để bao quát thêm các từ tương tự.
+6/ Đôi khi tìm kiếm nhưng trang đó không có nhiều kiến thức mong muốn thì nhập cú pháp http://www.thubantimkiem.com 
+7/ Để tìm kiếm chính xác hơn thì để trong dấu ngoặc kép "thubantimkiem"
+8/ Sử dụng trang tìm kiếm nâng cao của Google
+9/ Tìm kiếm trong tìm kiếm. Kéo xuống cuối trang kết quả và sẽ thấy "Tìm kiếm có liên quan"
+10/ Tìm kiếm trên Google thêm từ Searches trước thứ muốn tìm
