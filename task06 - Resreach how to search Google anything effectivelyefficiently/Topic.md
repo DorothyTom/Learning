@@ -46,3 +46,15 @@ Những quy tắc khi nấu mì:
 + Không thêm dầu vào khi luộc mì (không có ý nghĩa gì, chỉ nên khuấy đều để tránh mì vốn cục lại) 
 
 step07-->step16
+
+# How to learn web design (in 9 steps)
+
+1. Hiểu các khái niệm về thiết kế web 
+2. Biết kiến thức cơ bản về HTML (là ngôn ngữ lập trình dùng để xây dựng và cấu trúc lại các thành phần có trong Website).
+3. Hiểu về CSS (CSS là viết tắt của Cascading Style Sheets, một ngôn ngữ thiết kế đơn giản, xử lý một phần giao diện của trang web).
+4. Tìm hiểu UX (là cách một người cảm nhận khi giao tiếp với một hệ thống. ... Họ có thể đào sâu bằng cách nghiên cứu các thành phần của hệ thống con, chẳng hạn như người sử dụng Web có thấy hiệu quả và dễ chịu khi điền thông tin vào các biểu mẫu Web hay không).
+5. Làm quen với giao diện người dùng UI (UI là viết tắt của từ User Interface có nghĩa là giao diện người dùng. Hiểu một cách đơn giản nhất thì UI bao gồm tất cả những gì người dùng có thể nhìn thấy như: màu sắc web, bố cục sắp xếp như thế nào, web/app sử dụng fonts chữ gì, hình ảnh trên web có hấp dẫn hay không,...).
+6. Hiểu kiến thức cơ bản về cách tạo bố cục
+7. Tìm hiểu về kiểu chữ
+8. Đưa kiến thức vào để xây dựng web
+9. Tìm 1 mentor (họ là những người đi trước và sẽ rất dễ dàng trong việc giải đáp những lỗi trong khi thực hiện xây dựng trang web).
