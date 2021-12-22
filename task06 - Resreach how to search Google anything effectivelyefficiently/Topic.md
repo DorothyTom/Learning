@@ -27,3 +27,19 @@
 7. Take an online lesson
 
 > Hiện nay việc học Tiếng Anh cũng trở nên phổ biến vì thế nên cần thường xuyên xem và học để tăng thêm trình độ
+
+# How to cook spaghetti step by step
+
+1. Lựa một cái nồi thiệt bự để luộc mì cho thoải mái
+2. Đổ nhiều nước vào sao cho ngập ống mì
+3. Cho thêm muối vào (1 muỗng cho 6lit nước) để tăng độ mặn mà cho sợi mì
+4. Để nước sôi thì thả mì vào rồi đậy nắp lại cho nước mau sôi
+5. Trong lúc luộc mì hãy đứng canh và khuấy đều 1-2 lần tránh trường hợp mì bị vón cục lại
+6. Xem thời gian nhà sản xuất ghi trên bao bìa là luộc khoảng bao nhiêu phút, ta có thể xem sợi mì trước thời gian nxs đưa ra. Vì muốn sợi mì dai, giòn và ngon thì tùy vào sở thích của người nấu.
+7. Khi mì đã chín thì ta đổ nước mì đi và để lại một ít nước luộc đó để khi ta trộn nước sốt vào sẽ được 1 hỗn hợp hòa quyện hơn.
+8. Bỏ mì đổ vào một cái rổ sạch rồi để cho ráo nước sau đó đổ mì vào chảo sốt đang nấu rồi trộn đều (nếu mì còn sống thì nấu khoảng 2 phút hơn) 
+
+Những quy tắc khi nấu mì: 
++ Không rửa mì khi vừa nấu xong
++ Không thêm dầu vào khi luộc mì (không có ý nghĩa gì, chỉ nên khuấy đều để tránh mì vốn cục lại) 
+
