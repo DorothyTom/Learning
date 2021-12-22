@@ -28,6 +28,8 @@
 
 > Hiện nay việc học Tiếng Anh cũng trở nên phổ biến vì thế nên cần thường xuyên xem và học để tăng thêm trình độ
 
+step01-->06
+
 # How to cook spaghetti step by step
 
 1. Lựa một cái nồi thiệt bự để luộc mì cho thoải mái
@@ -43,3 +45,4 @@ Những quy tắc khi nấu mì:
 + Không rửa mì khi vừa nấu xong
 + Không thêm dầu vào khi luộc mì (không có ý nghĩa gì, chỉ nên khuấy đều để tránh mì vốn cục lại) 
 
+step07-->step16
