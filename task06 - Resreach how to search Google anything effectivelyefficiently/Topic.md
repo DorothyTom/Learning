@@ -49,7 +49,7 @@ step07-->step16
 
 # How to learn web for dummies
 
-How to learn web design (in 9 steps)
+### How to learn web design (in 9 steps)
 
 1. Hiểu các khái niệm về thiết kế web 
 2. Biết kiến thức cơ bản về HTML (là ngôn ngữ lập trình dùng để xây dựng và cấu trúc lại các thành phần có trong Website).
