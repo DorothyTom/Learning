@@ -9,3 +9,5 @@ txt stands for: text
 
 
 3/ Change Windows language to English
+
+4/ Learn how to write a good commits message 
