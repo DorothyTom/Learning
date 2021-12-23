@@ -28,6 +28,8 @@
 
 > Hiện nay việc học Tiếng Anh cũng trở nên phổ biến vì thế nên cần thường xuyên xem và học để tăng thêm trình độ
 
+### Reference: 
+1/ https://www.englishexpress.com.sg/articles/5-simple-ways-to-learn-english-effectively/
 step01-->06
 
 # How to cook spaghetti step by step
