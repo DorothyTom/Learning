@@ -13,4 +13,4 @@ txt stands for: text
 4/ Learn how to write a good commits message 
 
 5/ Learn how to work with teams
-
++ By Pull Request 
