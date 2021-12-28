@@ -16,3 +16,5 @@ txt stands for: text
 + By Pull Request 
 
 6/ Learn Github
++ Learn new branch
++ Learn pull request, commit
