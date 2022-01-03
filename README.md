@@ -18,5 +18,4 @@ txt stands for: text
 6/ Learn Github
 + Learn new branch
 + Learn pull request, commit
-+ TestBranch
 
