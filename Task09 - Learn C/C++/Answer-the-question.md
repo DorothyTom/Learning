@@ -8,15 +8,15 @@
 
 # Vậy để đạt tới các trình độ (beginner, intermediate, advanced,..) thì phải cần tối đa là bao nhiêu năm ?
 
-> Beginner: 
-> Intermediate: 
-> Advanced: 
+> Beginner: 1 năm
+> Intermediate: 3-5 năm
+> Advanced: 10 năm
 
 # Chứng minh nào để biết được mình đã đạt đến các trình độ đó ?
 
-> Beginner
-> Intermediate
-> Advanced
+> Beginner: làm được các bài tập căn bản.
+> Intermediate: biết được nhiều lệnh hơn, biết hướng giải quyết vấn đề. 
+> Advanced: thông thạo trong việc sử dụng C/C++ (cái gì cũng biết, cái gì cũng làm được)
 
 # Ngôn ngữ lập trình C/C++ có thực sự cơ bản và đơn giản ?
 
@@ -46,4 +46,37 @@ https://magenest.com/vi/ngon-ngu-lap-trinh/
 # Ưu điểm và nhược điểm của ngôn ngữ C/C++ này?
 
 #### Ưu điểm:
+
+> 
+
+#### Nhược điểm: 
+
+>
+
+# Việc làm dành cho ngôn ngữ C/C++ có nhiều không? 
+
+> 
+
+# Lương cơ bản? 
+
+>
+
+# Ngôn ngữ lập trình nào là phổ biến và có lương là bao nhiêu ?
+
+> 
+
+# Có tất cả là bao nhiêu ngôn ngữ lập trình? Phân loại những ngôn ngữ lập trình đó? 
+
+> 
+
+# C/C++ có thể lập trình được những phần mềm nào?
+
+>
+
+# Cùng với chất lượng của phần mềm thì thời gian hoàn thành của C/C++ với những ngôn ngữ khác? 
+
+> 
+
+
+
 
