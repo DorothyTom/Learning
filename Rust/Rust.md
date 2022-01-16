@@ -1,6 +1,5 @@
 # RUST
-
-
+![step01](https://user-images.githubusercontent.com/94232298/149668176-dee5bdf8-0e28-4a70-9053-3d521d605d1b.png)
 ### RUST là gì? 
 - Rust là ngôn ngữ lập trình được tạo ra vào năm 2006 bởi Graydon Hoare như một dự án phụ khi đang là developer tại Mozilla.  Rust pha trộn hiệu suất của các ngôn ngữ như C++ với cú pháp thân thiện hơn, tập trung vào code an toàn và được thiết kế tốt giúp đơn giản hóa việc phát triển. Các phần của trình duyệt Firefox của Mozilla được viết bằng Rust và các nhà phát triển tại Microsoft được cho là sử dụng nó để mã hóa lại các phần của hệ điều hành Windows.
 
